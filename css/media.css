@@ -1,0 +1,25 @@
+/* nav .social-icons  */
+@media screen and (max-width: 992px) {
+    nav .social-icons {
+      display: none;
+    }
+  }
+
+/* nav .collapse ul */
+@media screen and (max-width: 992px) {
+    nav .collapse ul{
+      width: 100%;
+      margin-top: 10px;
+      padding: 5px 0;
+    }
+}
+
+/* #footer .footer-copyright */
+@media screen and (max-width: 767px) {
+  #footer .footer-copyright .copyright-text p, #footer .footer-copyright .social-icons{
+      text-align: center;
+}
+}
+
+
+ 
